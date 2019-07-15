@@ -77,6 +77,7 @@ Jeewx-Boot，是一款开源免费的微信开发平台，是jeewx的新一代�
 - 1.系统用户管理   	 jeewx-boot-base-system（含项目启动类）
 - 2.CMS模块	         jeewx-boot-module-cms
 - 3.微信管家模块     jeewx-boot-module-weixin
+- 3.小程序官网源码   [jeewx-app-cms](https://github.com/zhangdaiscott/jeewx-app-cms)
 	  
 
 
