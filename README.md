@@ -22,7 +22,7 @@ Jeewx-Boot是一款开源免费的微信管家平台。支持微信公众号、�
 * 技术论坛 ：[www.jeecg.org](http://www.jeecg.org)
 * 反馈问题 ：[请发issue](https://github.com/zhangdaiscott/jeewx-boot/issues/new)
 
-项目说明
+基础项目说明
 -----------------------------------
 
 | 项目名   |      中文名      |  备注 |
@@ -31,8 +31,17 @@ Jeewx-Boot是一款开源免费的微信管家平台。支持微信公众号、�
 | jeewx-boot-module-cms |    CMS管理后台   |    |
 | jeewx-boot-module-weixin | 微信公众号管理 |     |	 
 | jeewx-boot-module-api | 共通业务API接口 |     |	
-| jeewx-boot-module-goldenegg | 砸金蛋活动 |  数据库脚步独立   |	
 | [jeewx-app-cms](https://github.com/zhangdaiscott/jeewx-app-cms) | 小程序官网源码 |    采用wepy语言 | 
+
+
+基础项目说明
+-----------------------------------
+
+| 项目名   |      中文名      |  备注 |
+|----------|:-------------:|------:|
+| huodong/jeewx-boot-module-goldenegg | 砸金蛋活动 |  数据库脚步独立   |	
+
+
 
 	  
 系统模块
