@@ -2,6 +2,7 @@ Jeewx-Boot  免费微信管家平台
 ==========
 
 当前最新版本： 1.0.3（发布日期：20190801）
+
 [![AUR](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/zhangdaiscott/jeewx-boot/blob/master/LICENSE)
 [![](https://img.shields.io/badge/Author-Scott-orange.svg)](https://blog.csdn.net/zhangdaiscott)
 [![](https://img.shields.io/badge/version-2.0-brightgreen.svg)](https://github.com/zhangdaiscott/jeewx-boot)
