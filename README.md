@@ -1,6 +1,6 @@
 ![输入图片说明](https://static.oschina.net/uploads/img/201908/03151039_mVqc.png "在这里输入图片标题")
 
-Jeewx-Boot  免费微信管家平台
+JeeWx-Boot  免费微信管家平台
 ==========
 
 当前最新版本： 1.0.3（发布日期：20190801）
