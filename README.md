@@ -28,7 +28,7 @@ Jeewx-Boot是一款开源免费的微信管家平台。支持微信公众号、�
 * QQ交流群 : 97460170
 * 反馈问题 ：[请发issue](https://github.com/zhangdaiscott/jeewx-boot/issues/new)
 * 开发文档：http://jeewx-boot.mydoc.io
-* 活动插件集成文档：hhttp://jeewx-boot.mydoc.io/?t=346439
+* 活动插件集成文档：http://jeewx-boot.mydoc.io/?t=346439
 * 技术论坛 ：[www.jeecg.org](http://www.jeecg.org)
 * 小程序文档： http://shop.jeewx.com/#/doc/rumen
 
