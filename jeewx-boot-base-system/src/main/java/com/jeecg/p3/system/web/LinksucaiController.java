@@ -98,8 +98,10 @@ public class LinksucaiController extends BaseController {
             if (code == null || code.length() == 0) {
                 logger.info("-------[LINKWXSTEP1_START]-----------距离开始时间戳耗时--------------->" + (System.currentTimeMillis() - start) + "ms");
                 String web_oauth_url = "https://open.weixin.qq.com/connect/oauth2/authorize?appid=APPID&redirect_uri=REDIRECT_URI&response_type=code&scope=SCOPE&state=STATE#wechat_redirect";
-                String REDIRECT_URIl = request.getRequestURI();
-                String REDIRECT_URI = REDIRECT_URIl.substring(1);
+                String REDIRECT_URI = request.getRequestURI();
+                if (SystemProperties.domain.endsWith("/")){
+                    REDIRECT_URI = REDIRECT_URI.substring(1);
+                }
                 if (REDIRECT_URI.indexOf(SystemProperties.domain) == -1) {
                     REDIRECT_URI = SystemProperties.domain.replace(request.getContextPath(), "") + REDIRECT_URI;
                 }
